@@ -1,8 +1,0 @@
-{
-  "routes": [
-    {
-      "src": "/api/status",
-      "dest": "/api/status.js"
-    }
-  ]
-}
